@@ -4,14 +4,6 @@ body{
 
 }
 
-h4{
-  color: white;
-  text-align: center;
-  font-family: Tahoma, Times, 'Times New Roman', serif; 
-  display: block;
-  margin-bottom: 10px;
-}
-
 canvas{
   background-color: black;
   padding-left: 0;
